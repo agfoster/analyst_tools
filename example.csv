@@ -1,0 +1,4 @@
+techniqueID,tactic,score,color,comment
+T1595.001,reconnaissance,50,,'this is, a problem'
+T1592,,25,,comment
+T1053,persistence,75,red,this isn’t a problem
